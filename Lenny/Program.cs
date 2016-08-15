@@ -15,7 +15,6 @@ namespace Lenny
         static void Main()
         {
             SendKeys.SendWait("{(} ͡° ͜ʖ ͡°{)}");
-            // hopefully that works?
         }
     }
 }
